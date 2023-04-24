@@ -1,8 +1,8 @@
 <template>
-  <v-app-bar app color="blue" dark flat class="px-12">
+  <v-app-bar app color="#124578" dark flat class="px-12">
     <v-btn>
-      <v-icon color="yellow" left class="mr-2">fas fa-signature</v-icon
-      >Atlas-Expo
+      <v-icon color="yellow" left class="mr-2">fas fa-signature</v-icon>
+      Atlas-Expo
       <v-spacer></v-spacer>
       <v-btn text @clcik="scroll('home')" class="text-yellow">Home</v-btn>
       <v-btn text @clcik="scroll('about')">About</v-btn>
