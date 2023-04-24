@@ -18,8 +18,9 @@
                 <span></span>
                 <span></span>
                 <span></span>
-                <span></span>Contact me</v-btn
-              >
+                <span></span>
+                Contact me
+              </v-btn>
             </div>
           </v-col>
           <v-col cols="2">
@@ -434,13 +435,13 @@ export default defineComponent({
 }
 .hoverMe {
   position: relative;
-  padding: 1em 1.8em;
+  padding: 1em 2em 2em 2em;
   outline: none;
   border: 1px solid #303030;
   background: #061bd8;
   color: #ead70ad0;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
   font-size: 15px;
   overflow: hidden;
   transition: 0.2s;
@@ -530,7 +531,7 @@ export default defineComponent({
 .mouse-btn {
   margin: 10px auto;
   width: 40px;
-  height: 80px;
+  height: 40px;
   /*border: 3px solid rgba(14, 14, 184, 0.918);*/
   border-radius: 20px;
   display: flex;
