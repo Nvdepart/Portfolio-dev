@@ -344,13 +344,13 @@ export default defineComponent({
           img: "i5.jpg",
         },
         {
-          img: "i6.jpg",
-        },
-        {
-          img: "i7.jpg",
+          img: "i6.jpeg",
         },
         {
           img: "i8.jpg",
+        },
+        {
+          img: "i9.jpg",
         },
       ],
     };
